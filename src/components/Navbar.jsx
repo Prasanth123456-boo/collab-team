@@ -2,7 +2,7 @@
 const Navbar = () =>{
     return (
         <>
-        <h2>This is Navbar</h2>
+        <h2>This is Navbars </h2>
         </>
     )
 }
